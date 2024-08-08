@@ -1,0 +1,6 @@
+from database import create_db
+from gui import main as start_gui
+
+if __name__ == "__main__":
+    create_db()  # Initialize the database
+    start_gui()  # Start the GUI
