@@ -8,6 +8,7 @@ Mentor:Neela Santhosh kumar
 
 Overview
 This Python-based inventory management system will feature:
+![Task2](https://github.com/user-attachments/assets/d9a7d8a4-86bb-4af0-86a8-1024bdc8858c)
 
 User Authentication:
 Registration: Allows new users to create an account.
